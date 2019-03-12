@@ -1,0 +1,9 @@
+Size of .text section in RAMTEST component is =  1170 Bytes
+Size of .rodata section in RAMTEST component is = 40 Bytes
+
+Size of .data section in RAMTEST component is = 24 Bytes
+Size of .bss section in RAMTEST component is = 108 Bytes
+
+-> Size of ROM in RAMTEST component is = 1210 bytes
+-> Size of RAM in RAMTEST component is = 132 bytes
+
